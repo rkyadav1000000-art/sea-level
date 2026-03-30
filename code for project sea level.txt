@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sea level</title>
+</head>
+<h1>Sea Level</h1>
+<body>
+    <h2>Increasing Graph Satellite Observation</h2>
+    <img width="550" height="230" src="sea level.graph.jpg" alt="Graph">
+    <h4>Sea level rise refers to the increase in the average height of the world’s oceans. It’s one of the major impacts of
+    climate change and is happening gradually—but with serious long-term effects.</h4>
+    <h2>🌊 Why is sea level rising?</h2>
+    <h4>The main causes are:</h4>
+    <h3>1. Thermal expansion</h3>
+    <h4>As ocean water warms, it expands. This is a key concept in Thermal Expansion.</h4>
+    <h3>2. Melting ice</h3>
+    <h4>* Glaciers and ice sheets (especially in Greenland and Antarctica) are melting faster.</h4>
+    <h4>*  This adds more water to the oceans.</h4>
+    <h3>3. Loss of polar ice sheets</h3>
+    <h4>Large ice masses are shrinking due to rising global temperatures linked to Global Warming.</h4>
+    <h2>📈 How fast is it rising?</h2>
+    <h4>* Over the past century: about 15–20 cm (6–8 inches)</h4>
+    <h4>* Current rate: about 3–4 mm per year, and accelerating</h4>
+    <h2>⚠️ Why does it matter?</h2>
+    <h4>Sea level rise can lead to:</h4>
+    <h4>- Coastal flooding (especially during storms).</h4>
+    <h4>- Erosion of beaches.</h4>
+    <h4>- Saltwater intrusion into drinking water supplies.</h4>
+    <h4>- Threats to major coastal cities like Mumbai, Kolkata, and New York City.</h4>
+    <h4>Low-lying regions and island nations are the most vulnerable.</h4>
+    <h2>🌍 What can be done?</h2>
+    <h4>- Reducing greenhouse gas emissions.</h4>
+    <h4>- Transitioning to renewable energy.</h4>
+    <h4>- Coastal protection (like seawalls and mangroves).</h4>
+    <h4>Better urban planning.</h4>
+
+
+</body>
+</html>
